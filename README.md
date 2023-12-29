@@ -1,1 +1,3 @@
-# palmerpenguins <a href='https://allisonhorst.github.io/palmerpenguins/'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
+# Palmer Penguins Classification using Web Apps <a href='https://github.com/Data-Portofolio/Penguin-Apps/blob/main/logo.png'><img src='https://github.com/Data-Portofolio/Penguin-Apps/raw/main/logo.png' align="right" height="138.5" /></a>
+
+
